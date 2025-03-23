@@ -9,12 +9,12 @@ La interfaz es intuitiva y fácil de usar, brindando una experiencia de navegaci
 - Vite
 - Bootstrap
 
-## Instalacion .[!TIP].
+## Instalacion
 Deberas de realizar los siguientes pasos para poder levantar la aplicaciòn.
 
 - git clone = Clonar el proyecto
 - Abrir el proyecto en cualquier IDE de Codigo.
-- Una ves que estes dentro de cualquier terminal dentro del proyecto clonado colocas el siguiente comando:
+- Una ves que estes dentro de cualquier terminal dentro del proyecto agregas el siguiente comando:
 - npm install -> Para descargar las dependencias del proyecto (node_modules).
 
 ## Development server
